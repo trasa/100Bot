@@ -1,0 +1,24 @@
+OMG ITS.... the 100 Bot.
+
+BEWARE - I wrote this when I was first learning Python.  There are some very
+unpythonic things lurking in here.  Also, the bot never had the chance to 
+get very good, and then the show was canceled so I shelved the code.. 
+
+I wrote this while experimenting with Eclipse and PyDev, which leads to some
+very unfortunate issues with the formatting.  
+
+OVERVIEW
+
+In my copious spare time, and as a chance to learn Python, I wrote a TriviaBot 
+to play the Xbox Live online game "1 vs. 100 Live." I worked with the OpenCV 
+library to train the bot to recognize when a question screen is being displayed, 
+read images from a webcam, and used PyTesser and the Tesseract engine to read the
+question and potential answers. Questions and answers are fed into a 
+Google query and also a database of known questions to come up with a guess. 
+
+This was an enjoyable introduction to Python, even though the bot itself was
+not very good at guessing. 
+
+Unfortunately the game was canceled before I could improve the guessing
+algorithm.
+
